@@ -1,11 +1,7 @@
 <?php
 return 
 [
-	'view_replace_str'       => 
-	[
-		'__ADMIN__'=>'/admin',
-		'__LIB__'=>'/lib'
-	],
-	'default_module'         => 'admin',
+
+	'default_module'         => 'index',
 	'app_trace'              => true
 ];

@@ -12,5 +12,5 @@ return
         // 数据库密码
                 'password'        => 'root',
         // 数据库表前缀
-                'prefix'          => 'o2o_'
+                'prefix'          => ''
 ];
